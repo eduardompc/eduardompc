@@ -24,7 +24,7 @@ Sou um profissional de Tecnologia da Informação com mais de **30 anos de exper
 
 ## 📂 Projetos em Destaque
 🔸 **[Biblioteca Virtual]** - Plataforma para compartilhamento e leitura de e-books online.  
-🔸 **[Gerador de Combinações Lotofácil]** - Algoritmo para geração de apostas inteligentes.  
+🔸 **[Gerador de Combinações]** - Algoritmo para geração de apostas inteligentes.  
 🔸 **[Tokenização de Energia]** - Projeto de blockchain para comercialização de energia elétrica.  
 
 ## 📬 Contato
