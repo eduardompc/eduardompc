@@ -7,6 +7,7 @@
 
 ## 🚀 Sobre mim
 Sou um profissional de Tecnologia da Informação com mais de **30 anos de experiência** no setor. Minha trajetória inclui **desenvolvimento de software, infraestrutura de TI, segurança cibernética, análise de dados, DevOps, SecOps e integração de soluções tecnológicas**. Tenho paixão por inovação e sempre busco novas formas de otimizar processos e desenvolver soluções escaláveis.
+Além da minha experiência técnica, sou um entusiasta de matemática, inteligência artificial, drones e música, o que demonstra minha versatilidade e curiosidade contínua.
 
 ## 🛠️ Habilidades
 - **Linguagens**: Python, JavaScript, C#, Java, Shell Script
