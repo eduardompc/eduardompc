@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--carvalho-blue?logo=linkedin)](https://linkedin.com/in/eduardo-carvalho-b13398258/)
 [![GitHub](https://img.shields.io/badge/GitHub-eduardompc-black?logo=github)](https://github.com/eduardompc)
 [![GitLab](https://img.shields.io/badge/GitLab-eduardompc-orange?logo=gitlab)](https://lab.com/eduardompc)
+[![DIO](https://img.shields.io/badge/Dio-eduardomparciopc-orange?logo=dio)](https://www.dio.me/users/eduardomarciopc)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-eduardo--carvalho-f48024?logo=stackoverflow)](https://stackoverflow.com/users/14160631/eduardo-carvalho)
 
 ## 🚀 Sobre mim
@@ -10,7 +11,7 @@ Sou um profissional de Tecnologia da Informação com mais de **30 anos de exper
 Além da minha experiência técnica, sou um entusiasta de matemática, inteligência artificial, drones e música, o que demonstra minha versatilidade e curiosidade contínua.
 
 ## 🛠️ Habilidades
-- **Linguagens**: Python, JavaScript, C#, Java, Shell Script
+- **Linguagens**: Python, Php,JavaScript, C#, Java, Shell Script
 - **Desenvolvimento Web & Mobile**: Flask, React, Next.js, Node.js, Android
 - **Infraestrutura & DevOps**: Docker, Kubernetes, CI/CD, Terraform
 - **Segurança & SecOps**: SIEM, SOC, Análise de Vulnerabilidades
