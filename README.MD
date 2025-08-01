@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--carvalho-blue?logo=linkedin)](https://linkedin.com/in/eduardo-carvalho-b13398258/)
 [![GitHub](https://img.shields.io/badge/GitHub-eduardompc-black?logo=github)](https://github.com/eduardompc)
-[![GitLab](https://img.shields.io/badge/GitLab-eduardompc-orange?logo=gitlab)](https://lab.com/eduardompc)
+[![GitLab](https://img.shields.io/badge/GitLab-eduardompc-orange?logo=gitlab)](https://gitlab.com/eduardompc)
 [![DIO](https://img.shields.io/badge/Dio-eduardomparciopc-orange?logo=dio)](https://www.dio.me/users/eduardomarciopc)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-eduardo--carvalho-f48024?logo=stackoverflow)](https://stackoverflow.com/users/14160631/eduardo-carvalho)
 
