@@ -7,8 +7,17 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-eduardo--carvalho-f48024?logo=stackoverflow)](https://stackoverflow.com/users/14160631/eduardo-carvalho)
 
 ## 🚀 Sobre mim
-Sou um profissional de Tecnologia da Informação com mais de **30 anos de experiência** no setor. Minha trajetória inclui **desenvolvimento de software, infraestrutura de TI, segurança cibernética, análise de dados, DevOps, SecOps e integração de soluções tecnológicas**. Tenho paixão por inovação e sempre busco novas formas de otimizar processos e desenvolver soluções escaláveis.
-Além da minha experiência técnica, sou um entusiasta de matemática, inteligência artificial, drones e música, o que demonstra minha versatilidade e curiosidade contínua.
+Sou Consultor de Tecnologia, Arquiteto de Soluções e fundador da EMPC TI, empresa de tecnologia criada em 2005.
+
+Atuo há mais de 30 anos na área de Tecnologia da Informação, construindo soluções que integram software, infraestrutura, automação, dados, segurança e inteligência artificial para resolver desafios reais de negócio.
+
+Minha trajetória começou na eletroeletrônica, evoluiu para eletrônica, telecomunicações, infraestrutura e redes, até chegar ao desenvolvimento de sistemas, cloud computing, DevOps, observabilidade, automação industrial e inteligência artificial.
+
+Ao longo da carreira participei de projetos nacionais e internacionais nos segmentos financeiro, saúde, energia renovável, logística, agronegócio, automação industrial, segurança, observabilidade e transformação digital.
+
+Tenho forte interesse em inovação, integração de tecnologias e desenvolvimento de soluções inteligentes capazes de aumentar eficiência operacional, segurança, automação e capacidade de tomada de decisão.
+
+Acredito que a tecnologia gera seu maior valor quando conecta pessoas, processos e dados para criar resultados concretos e sustentáveis.
 
 ## 🛠️ Habilidades
 - **Linguagens**: Python, Php,JavaScript, C#, Java, Shell Script
