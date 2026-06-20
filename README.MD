@@ -5,7 +5,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-eduardompc-orange?logo=gitlab)](https://gitlab.com/eduardompc)
 [![DIO](https://img.shields.io/badge/Dio-eduardomparciopc-orange?logo=dio)](https://www.dio.me/users/eduardomarciopc)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-eduardo--carvalho-f48024?logo=stackoverflow)](https://stackoverflow.com/users/14160631/eduardo-carvalho)
-[![Portfólio](https://eduardo.empcti.com.br)]
+[![Portfólio](https://img.shields.io/badge)](https://eduardo.empcti.com.br)
 
 ## 🚀 Sobre mim
 Sou Consultor de Tecnologia, Arquiteto de Soluções e fundador da EMPC TI, empresa de tecnologia criada em 2005.
